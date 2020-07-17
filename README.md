@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Fajen Serwis
 
-You can use the [editor on GitHub](https://github.com/ielevatex24/fajen-serwis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Serwer minecraft, do którego mają dostęp tylko wybrane osoby; Zazwyczaj znajomi, znajomi znajomych itp. Projekt prywatny
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dodatki Vanilla
 
-### Markdown
+Na serwerze znajdziemy kilka dodatków, które nie pochodzą od Vanilla Minecraft. Są to lekkie dodatki, które urozmaicą grę.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Kryształy Mocy
 
-```markdown
-Syntax highlighted code block
+Jest ich kilka. Podczas zabijania potworów, mam mały procent szansy na zdobycie pękniętego kryształu. Kryształy możemy naprawić poprzez połączenie ich w craftingu.
+Aby zdobyć uszlachetniony kryształ, musimy połączyć 9 pękniętych odłamków tego samego rodzaju w takiej konfiguracji(x = kryształ):
 
-# Header 1
-## Header 2
-### Header 3
+x x x
+x x x  > Kryształ [Uszlachetniony]
+x x x
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ielevatex24/fajen-serwis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kryształy pęknięte nie dają żadnych bonusów, zaś uszlachetnione już tak.
